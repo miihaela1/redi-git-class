@@ -1,2 +1,3 @@
 Name: Mia
-Birthday: 14th of September
+Birthday: 14 September
+Country: Romania
